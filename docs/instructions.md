@@ -14,7 +14,7 @@ The first Player to do so is the Winner.
 * If there are (2x) Players, they should sit on opposite sides of the Board from one another.
 * Play always starts with the Oldest Player at the table, and moves Clockwise from there.
 
-# Dice Principles
+### Dice Principles
 
 * On each Turn, a Player rolls two Dice, then moves (only their own) Pawns accordingly.
 * The Dice must land in the Dice Pit at the center of the Board, and each Die must bounce off the Dice Pit sidewalls at least
@@ -24,7 +24,9 @@ once before coming to rest.
 * Any number rolled on a single Die that can't be executed at the exact amount, must be Forfeited.
 * In addition: any number rolled on a single Die *can* be Forfeited at any tome, for any reason.
 
-* In the case of rolling Doubles
+### Doubles (Special Case) 
+
+* In the case of rolling Doubles, it is just as Player gets an emtire extra Turn, immediately after their current Turn is done. (All other rules governing Dice still apply).
 
 ## Theory of Play
 
