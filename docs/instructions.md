@@ -12,7 +12,7 @@ The first Player to do so is the Winner.
 
 * The Game is designed for (4x) Players, but can be played with fewer.
 * If there are (2x) Players, they should sit on opposite sides of the Board from one another.
-* Play always starts with the Oldest Player at the table, and moves Clockwise from there.
+* Play always starts with the oldest Player, and moves clockwise from there.
 
 ### Dice Principles
 
