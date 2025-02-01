@@ -40,8 +40,7 @@ once before coming to rest.
 
 ### Breaking out of Jail (Special Case)
 
-* As mentioned in the prior section "Object of the Game", all Pawns start in their Color-specific Jail. The only way for a player to "Break out of Jail" is to roll exactly [6] on a single Die. (This will be discussed further in the Section "Theory of Play".
-
+* As mentioned in the prior section "Object of the Game", all Pawns start in their Color-specific Jail. The only way for a player to "Break out of Jail" is to roll exactly [6] on a single Die. (This will be discussed further in the Section "Theory of Play").
 ## Theory of Play
 
 ### Starting Positions
