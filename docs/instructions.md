@@ -24,7 +24,7 @@ once before coming to rest.
 
 * The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less) that a Pawn may advance forward.
 * Any number rolled on a single Die *cannot* be split between more than one Pawn.
-* Each of the (2x) numbers rolled by the Dice on a turn can be used to Move the same Pawn in the same Turn twice, strictly as one Move immediately following the other.
+* Each of the (2x) numbers rolled by the Dice on a turn can be used to advance the same Pawn in the same Turn twice, but strictly as one Move immediately following the other.
 
 #### Forfeiting a Roll
 
