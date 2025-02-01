@@ -51,9 +51,8 @@ once before coming to rest.
 * Each Pawn must travel counterclockwise down the Hallway.
 * Optionally, any Pawn may travel over any Catwalk (and not just the one on their side of the Board) as they advance.
 * At the "Square 9" corresponding to Team Color, each Pawn advamces to their Team's Stairway without having to stop for any reason (such has having to roll some precise number). 
-* To reach Exit from the Stairway, the exact amoubt to reach the Exit Space (and no more) must be rolled on a simgle Die.
+* To reach the Exit at the top of the Stairway, the exact Die amount to reach the Exit Space (and no more) must be rolled.
 * Once all (4x) of a Player's Pawns are in Exit, that Player wins the Game.
-
 
 ### Starting Positions
 
