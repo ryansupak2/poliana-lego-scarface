@@ -2,7 +2,7 @@
 
 ## Onject of the Game
 
-The Object of the Game is to move all (4x) Pawns in your Team Color (Res|Green|Blue|Yellow) from their starting place in their Color-specific Jail, counter-clockwise around the Board, to their color-specific Home.
+The Object of the Game is to move all (4x) Pawns in your Team Color (Res|Green|Blue|Yellow) from their starting place in their Color-specific Jail, counter-clockwise around the Board, to their Color-specific Home.
 
 The first Player to do so is the Winner.
 
