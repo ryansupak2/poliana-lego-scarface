@@ -46,9 +46,11 @@ once before coming to rest.
 ### Overall Flow
 
 * All Pawns start in their Color-corresponding Jail.
-* Each Pawn must "Break Out of Jail" by rolling esactly [6] on a single Die.
-* Each Pawn must then travel counterclockwise down the Hallway.
-* Optionally, each Pawn may travel over the Catwalk, which makes them more resistant to Capture (which will be discussed more in the section "Capturing".
+* Each Pawn must "Break Out of Jail" by rolling exactly [6] on a single Die.
+* Each Pawn then moves to "Square 0", and then each Pawn must then travel counterclockwise down the Hallway.
+* Optionally, any Pawn may travel over any Catwalk (and not just the one on their side of the Board) as they advance.
+* At the "Square 9" corresponding to Team Color, each Pawn advamces to their Color-corresponding Stairway.
+
 
 ### Starting Positions
 
