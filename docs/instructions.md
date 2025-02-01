@@ -28,7 +28,7 @@ once before coming to rest.
 
 #### Forfeiting a Roll
 
-* Any number rolled on a single Die that can't be executed at the exact amount, must be Forfeited.
+* Any number rolled on a single Die that can't be executed at the exact amount by any of Player's Pawns, must be Forfeited.
 * In addition: any number rolled on a single Die *can* be Forfeited at any tome, for any reason.
 
 ### Doubles (Special Case) 
