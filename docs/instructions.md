@@ -43,6 +43,13 @@ once before coming to rest.
 * As mentioned in the prior section "Object of the Game", all Pawns start in their Color-specific Jail. The only way for a player to "Break out of Jail" is to roll exactly [6] on a single Die. (This will be discussed further in the Section "Theory of Play").
 ## Theory of Play
 
+### Overall Flow
+
+* All Pawns start in their Color-corresponding Jail.
+* Each Pawn must "Break Out of Jail" by rolling esactly [6] on a single Die.
+* Each Pawn must then travel counterclockwise down the Hallway.
+* Optionally, each Pawn may travel over the Catwalk, which makes them more resistant to Capture (which will be discussed more in the section "Capturing".
+
 ### Starting Positions
 
 * Each team of (4x) Pawns starts in the Jail that corresponds to its Team Color (Red|Green|Blue|Yellow).
@@ -52,5 +59,9 @@ once before coming to rest.
 * The entire Jail (approx. (4x) normal-sized Spaces) is treated as a single Space. Therefore, all Pawns start in the same Space at the Start of the Game.
 * Only Pawns of the corresponding Color can be in a Jail. (There is *no* situation where Pawns will ever be in a Jail of another Color).
 
-* On a Dice roll of [6] (each dice
+#### Breaking Out of Jail
+
+* On any single Die roll of exactly [6], a single Pawn may Break Out of Jail.
+* However, Player is *not* required to Break Out a Pawn
+This means that the Pawn can move to Sq
 
