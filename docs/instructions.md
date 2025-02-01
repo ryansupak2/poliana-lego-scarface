@@ -1,16 +1,15 @@
-# Poliana Instruction
+# Poliana Instructions
 
-## General
+## Onject of the Game
 
-### Onject of the Game
 The Object of the Game is to move all (4x) Pawns in your Team Color (Res|Green|Blue|Yellow) from their starting place in their Color-specific Jail, counter-clockwise around the Board, to their color-specific Home, before any other Player does the same with their own (4x) Pawns.
 
-### Game Board
+## General Principles
 
-* Each team of (4x) Pawns starts in the Jail that corresponds to its Team Color (
+* The number rolled on Dice is the exact amount of Spaces a Pawn may move.
 
-### Dice Principles
+## Theory of Play
 
-*
-* The number rolled on Dice is the amount of Spaces 
+* Each team of (4x) Pawns starts in the Jail that corresponds to its Team Color (Red|Green|Blue|Yellow).
+* On a Dice roll of [6] (each dice
 
