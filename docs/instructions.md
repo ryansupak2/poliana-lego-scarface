@@ -8,7 +8,7 @@ The first Player to do so is the Winner.
 
 ## General Principles
 
-* The number rolled on a Die gives the *exact* amount of Spaces (no more, no less)  a Pawn may move forward.
+* The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less)  a Pawn may move forward.
 * 
 
 ## Theory of Play
