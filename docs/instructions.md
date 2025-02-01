@@ -9,6 +9,9 @@ The first Player to do so is the Winner.
 ## General Principles
 
 * Play always starts with the Oldest player at the table, and moves Clockwise from there.
+* On each Turn, a player rolls two Dice.
+* The Dice must land in the Dice Pit at the center of the Board, and each Die must bounce off the Dice Pit sidewalls at least
+once before coming to rest.
 * The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less)  a Pawn may move forward.
 * The number rolled on a single Die *cannot* be split between one Pawn, or more than one Pawn.
 
