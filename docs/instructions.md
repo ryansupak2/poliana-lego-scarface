@@ -29,9 +29,9 @@ once before coming to rest.
 #### Forfeiting a Roll
 
 * Any number rolled on a single Die that can't be advanced for the exact amount, by any of Player's Pawns, must be Forfeited. (This is known as an "Involuntary Forfeit").
-* In addition: any number rolled on a single Die *can* be Forfeited at any time, for any reason. (This is known as an "Involuntary Forfeit").
+* In addition: any number rolled on a single Die *can* be Forfeited at any time, for any reason. (This is known as an "Voluntary Forfeit").
 * A player *cannot* take (2x) consecutive Turns in which they Voluntarily Forfeit all of their Moves.
-* However, note that the "consecutive Forfeits" rule does *not* apply to a player taking Turns with any Imvoluntary Forfeits at all. (If the Player can't move at all, nothing can be done about it by the Player at the time of the Move.)
+* However, note that the "consecutive Forfeits" rule does *not* apply to a player taking Turns with any Involuntary Forfeits at all. (If the Player can't move at all, nothing can be done about it by the Player at the time of the Move.)
 
 ### Doubles (Special Case) 
 
