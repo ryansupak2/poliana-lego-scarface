@@ -11,7 +11,7 @@ The first Player to do so is the Winner.
 ### First Principles
 
 * The Game is designed for (4x) Players, but can be played with fewer.
-* If there are (2x) Players, they should sit on opposite sides of the Board from one another.
+* If there are (2x) Players, they should sit on opposite sides of the Board from one another, playing as the corresponding Colors on their side of the Board.
 * Play always starts with the oldest Player, and moves clockwise from there.
 
 ### Dice Principles
