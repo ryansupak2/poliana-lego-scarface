@@ -16,7 +16,7 @@ The first Player to do so is the Winner.
 
 ### Dice Principles
 
-* On each Turn, a Player rolls two Dice, then Moves (only their own) Pawns accordingly.
+* On each Turn, a Player rolls two Dice, then advances (only their own) Pawns accordingly.
 * The Dice must land in the Dice Pit at the center of the Board, and each Die must bounce off the Dice Pit sidewalls at least
 once before coming to rest.
 
