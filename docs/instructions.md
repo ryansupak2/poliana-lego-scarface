@@ -1,4 +1,4 @@
-# Poliana Instructions
+ # Poliana Instructions
 
 ## Onject of the Game
 
@@ -48,6 +48,9 @@ once before coming to rest.
 * Each team of (4x) Pawns starts in the Jail that corresponds to its Team Color (Red|Green|Blue|Yellow).
 
 ### Jail
+
+* The entire Jail (approx. (4x) normal-sized Spaces) is treated as a single Space.
+* Only Pawns of the corresponding Color can be in Jail. (There is *no* situation where Pawns will be in a Jail of another Color).
 
 * On a Dice roll of [6] (each dice
 
