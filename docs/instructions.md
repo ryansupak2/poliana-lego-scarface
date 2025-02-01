@@ -44,6 +44,11 @@ once before coming to rest.
 
 ## Theory of Play
 
+### Starting Positions
+
 * Each team of (4x) Pawns starts in the Jail that corresponds to its Team Color (Red|Green|Blue|Yellow).
+
+### Jail
+
 * On a Dice roll of [6] (each dice
 
