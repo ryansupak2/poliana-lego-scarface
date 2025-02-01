@@ -47,7 +47,7 @@ once before coming to rest.
 
 * All Pawns start in their Color-corresponding Jail.
 * Each Pawn must "Break Out of Jail" by rolling exactly [6] on a single Die.
-* Each Break Out advances that Pawn to "Square 0" just outside their Jail. Only on the next Turn, can that Pawn advance any further. (This is true, even if there is still a single Die throw to use).
+* Each Break Out advances that Pawn to "Square 0" just outside their Jail. Only on the next Turn, can that Pawn advance any further. (This is true, even if there is still a single Die throw left to use as part of the current Turn).
 * Each Pawn must travel counterclockwise down the Hallway.
 * Optionally, any Pawn may travel over any Catwalk (and not just the one on their side of the Board) as they advance.
 * At the "Square 9" corresponding to Team Color, each Pawn advamces to their Team's Stairway.
