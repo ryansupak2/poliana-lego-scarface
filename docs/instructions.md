@@ -28,6 +28,10 @@ once before coming to rest.
 
 * In the case of rolling Doubles, it is just as Player gets an emtire extra Turn, immediately after their current Turn is done. (All other rules governing Dice still apply).
 
+### Breaking out of Jail (Special Case)
+
+* As mentioned in the prior section "First Principlea", all Pawns start in their color-specific Jail. 
+
 ## Theory of Play
 
 * Each team of (4x) Pawns starts in the Jail that corresponds to its Team Color (Red|Green|Blue|Yellow).
