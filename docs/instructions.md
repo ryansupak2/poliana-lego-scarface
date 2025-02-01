@@ -33,7 +33,7 @@ once before coming to rest.
 
 ### Doubles (Special Case) 
 
-* In the case of rolling Doubles, it is just as if the Player gets an emtire extra Turn, immediately after their current Turn is done. (All other rules governing Dice still apply).
+* In the case of rolling Doubles, it is just as if the Player gets an entire extra Turn, immediately after their current Turn is done. (All other rules governing Dice still apply).
 * Multiple Double Rolls can be made by a single Player. There is no limit to the amount of extra Turns can be received this way.
 
 ### Breaking out of Jail (Special Case)
