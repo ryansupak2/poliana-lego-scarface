@@ -30,6 +30,8 @@ once before coming to rest.
 
 * Any number rolled on a single Die that can't be executed at the exact amount by any of Player's Pawns, must be Forfeited.
 * In addition: any number rolled on a single Die *can* be Forfeited at any time, for any reason.
+* A player *cannot* take (2x) consecutive Turns in which they voluntarily Forfeit all of their Moves. (However, this dpes not apply to a player taking Moves with any involuntary Forfeits
+in it).
 
 ### Doubles (Special Case) 
 
