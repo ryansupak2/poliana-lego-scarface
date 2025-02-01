@@ -17,13 +17,14 @@ The first Player to do so is the Winner.
 ### Dice Principles
 
 * On each Turn, a Player rolls two Dice, then moves (only their own) Pawns accordingly.
-
 * The Dice must land in the Dice Pit at the center of the Board, and each Die must bounce off the Dice Pit sidewalls at least
 once before coming to rest.
 
-* The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less) that a Pawn may move forward.
+#### Dividing Rolls
 
+* The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less) that a Pawn may move forward.
 * Any number rolled on a single Die *cannot* be split between more than one Pawn.
+* Each of the (2x) numbers rolled by the Dice on a turn can be used to move the same Pawn in the same Move twice, one immediately following the other.
 
 #### Forfeiting a Roll
 
