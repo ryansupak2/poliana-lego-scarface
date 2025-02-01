@@ -22,7 +22,7 @@ once before coming to rest.
 
 #### Dividing Rolls
 
-* The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less) that a Pawn may move forward.
+* The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less) that a Pawn may advance forward.
 * Any number rolled on a single Die *cannot* be split between more than one Pawn.
 * Each of the (2x) numbers rolled by the Dice on a turn can be used to Move the same Pawn in the same Turn twice, one Move immediately following the other.
 
