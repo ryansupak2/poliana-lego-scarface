@@ -20,7 +20,7 @@ The first Player to do so is the Winner.
 * The Dice must land in the Dice Pit at the center of the Board, and each Die must bounce off the Dice Pit sidewalls at least
 once before coming to rest.
 
-#### Dividing Rolls
+#### Dividing amd Combining Rolls
 
 * The number rolled on a single Die gives the *exact* amount of Spaces (no more, no less) that a Pawn may advance forward.
 * Any number rolled on a single Die *cannot* be split between more than one Pawn.
