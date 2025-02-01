@@ -38,7 +38,7 @@ once before coming to rest.
 
 ### Breaking out of Jail (Special Case)
 
-* As mentioned in the prior section "First Principlea", all Pawns start in their color-specific Jail. 
+* As mentioned in the prior section "Objevt of the Game", all Pawns start in their color-specific Jail. 
 
 ## Theory of Play
 
