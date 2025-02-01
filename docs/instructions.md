@@ -60,7 +60,7 @@ once before coming to rest.
 
 ### Jail
 
-* The entire Jail (approx. (4x) normal-sized Spaces) is treated as a single Space. Therefore, all Pawns start in the same Space at the Start of the Game.
+* The entire Jail (approx. (4x) normal-sized Spaces) is treated as a single Space. Therefore, all Pawns of any Color start in the same Space at the Start of the Game.
 * Only Pawns of the corresponding Color can be in a Jail. (There is *no* situation where Pawns will ever be in a Jail of another Color).
 
 #### Breaking Out of Jail
