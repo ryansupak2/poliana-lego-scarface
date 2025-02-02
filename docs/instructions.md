@@ -31,7 +31,7 @@ once before coming to rest.
 #### Passing a Roll
 
 * Any number rolled on a single Die that can't be advanced for the exact amount, by any of Player's Pawns, must be Passed. (This is known as an "Involuntary Pass").
-* In addition: any number rolled on a single Die *can* be Passed at any time, for any reason. (This is known as an "Voluntary Pass").
+* In addition: any number rolled on a single Die *can* be Passed at any time, for any reason. (This is known as a "Voluntary Pass").
 * A player *cannot* take (2x) consecutive Turns in which they Voluntarily Pass all of their Moves.
 * However, note that the "consecutive Passes" rule does *not* apply to a player taking Turns with any Involuntary Passes at all. (If the Player can't move at all, nothing can be done about it by the Player at the time of the Move.)
 
@@ -77,7 +77,7 @@ once before coming to rest.
 * On any single Die roll of exactly [6], a single Pawn may Break Out of Jail.
 * The sum of both Dice cannot be used to perform a Break Out. The [6] must be on a single Die.
 * However, Player is *not* required to Break Out a Pawn, just because a [6] is rolled on a single Die, and there is at least (1x) Pawn in Player's Jail.
-* The act of *not* Breaking Out, when there is the possibility to but Player chooses not to, would count as a Voluntary Forfeit of a Move, if no other Move was made.
+* The act of *not* Breaking Out, when there is the possibility to but Player chooses not to, would count as a Voluntary Pass of a Move, if no other Move was made.
 * After the single Die roll of [6] is thrown, the Pawn is moved directly to the "Square 0" right outside their own Jail.
 * Pawn may *not* advance at all for the rest of the Move, even if the other Die throw hasn't been used yet.
 
