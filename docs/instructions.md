@@ -70,7 +70,7 @@ once before coming to rest.
 
 * On any single Die roll of exactly [6], a single Pawn may Break Out of Jail.
 * However, Player is *not* required to Break Out a Pawn, just because a [6] is rolled on a single Die, and there is at least (1x) Pawn in Player's Jail.
-* The act of *not* Breaking Out, when there is the possibility to, counts as a Voluntary Forfeit.
+* The act of *not* Breaking Out, when there is the possibility to but Player choosea not tp, counts as a Voluntary Forfeit.
 * After the single Die roll of [6] is thrown, the Pawn is moved directly to the "Square 0" right outside their own Jail.
 * Pawn may *not* advance at all for the rest of the Move, even if the other Die throw hasn't been used yet.
 
