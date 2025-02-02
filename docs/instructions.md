@@ -101,6 +101,7 @@ once before coming to rest.
 
 * A Capture is made as a result of a single Die throw causing a Pawn to land directly on a Hallway Space, which is already occupied by exactly (1x) enemy Pawn.
 * See the earlier section "Jail/Breaking Out of Jail/Special Capture and Stacking Scenarios" for full details on that class of cases.
+* When a Pawn is Captured, it is immediately returned to its own Color-corresponding Jail,l. From here, this Pawn must start over.
 
 ##### Stacking
 
@@ -118,4 +119,10 @@ once before coming to rest.
 #### Blocking
 
 * On the Catwalk, no Pawn may pass any other Pawn (friendly or enemy). This is called "Blocking".
-* If a Player's only option on a Move is to travel on a Catwalk, but there is another Pawn (friendly or enemy) preventing them from advancing the full amount of the single Die roll, then that Move is counted as an Imvoluntary Pass.
+* If a Player's only option on a Move is to travel on a Catwalk, but there is another Pawn (friendly or enemy) preventing them from advancing the full amount of their single Die roll, then that Move is counted as an Imvoluntary Pass.
+
+### Stairway
+
+* When a Pawn reaches its Color-corresponding "Square 9", it may proceed to its Stairway.
+* There is no moving penalty or halt, nor is there any precise Die roll needed, to enter the Hallway.
+* Only Pawns of the same Color as a Stairway may enter it. (There is *never* a scenario where a Pawn will be on a Stairway that is not its own Color).
