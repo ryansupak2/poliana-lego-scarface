@@ -91,3 +91,8 @@ once before coming to rest.
 
 * The Hallway is the bulk of Spaces that Pawns advance over throughout the Game.
 * Pawns advance counterclockwise on the Hallway, starting at their Color-corresponding "Square 0", and ending at their "Square 9". Therefore: each Pawn travels almost 360 degrees around the Board over the course of the Game.
+* When a Pawn reaches its Color-corresponding "Square 9", it then advances to its Color-corresponding Stairway.
+
+#### Combat
+
+* There are two modes of Combat possible in the game: Capturing and Stacking. (Combat is only possible on the Hallway, and noplace else including the Catwalk).
