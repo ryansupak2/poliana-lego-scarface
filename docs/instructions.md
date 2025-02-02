@@ -107,7 +107,7 @@ once before coming to rest.
 
 * A Capture is made as a result of a single Die throw causing a Pawn to land directly on a Hallway Space, which is already occupied by exactly (1x) enemy Pawn.
 * See the earlier section "Jail/Breaking Out of Jail/Special Capture and Stacking Scenarios" for full details on that class of cases.
-* When a Pawn is Captured, it is immediately returned to its own Color-corresponding Jail,l. From here, this Pawn must start over.
+* When a Pawn is Captured, it is immediately returned to its own Color-corresponding Jail. From here, this Pawn must start over.
 
 ##### Stacking
 
