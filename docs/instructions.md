@@ -1,4 +1,6 @@
- # Poliana Instructions
+# Poliana Instructions
+
+*Current Version v0.5 - 1 Feb 2025*
 
 ## Onject of the Game
 
@@ -134,3 +136,18 @@ once before coming to rest.
 * Once all a Player's Pawns are in the Exit, the Game is over with that Player Winning.
 * Once a Pawn is in the Exit, there is no way to reverse that for the rest of the Game.
 * A Pawn must make an exact single Die roll to get to the Exit. (The single Die roll must not "overshoot" the Exit.
+
+## Appendix A: History
+
+TODO
+
+## Appendix B: Differences between Original Ruleset and This Ruleset
+* Board was rationalized, eliminating the "Gap" for Jail in the Hallway (fka "Broadway").
+* Jail exit Space is now "Square 0", as opposed to "Square 3" originally.
+* [6] on a single Die is required to Break Out. (Most original Rulesets are more flexible here, allowing combinations that add up to [6]).
+* Eliminated "Capture Bonus" entirely. In original Rulesets, Player would often get to advance extra spaces (around 10) for a Capture.
+* Added "Snake Eyes Sniper" mechanic to this Ruleset.
+
+## Changelog
+
+* v0.5 - 1 Feb 2025 - Initial Draft
