@@ -74,6 +74,6 @@ once before coming to rest.
 * After the single Die roll of [6] is thrown, the Pawn is moved directly to the "Square 0" right outside their own Jail.
 * Pawn may *not* advance at all for the rest of the Move, even if the other Die throw hasn't been used yet.
 
-##### Capture Scenarios
+##### Special Capture/Stack Scenarios
 
-* If a Pawn is on "Square 0"
+* If a enemy Pawn is on "Square 0" and a player Breaks Out onto that "Square 0", the enemy pawn is Captured (see later section "Combat/Capturing" for full details). 
