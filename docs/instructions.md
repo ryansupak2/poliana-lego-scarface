@@ -28,12 +28,12 @@ once before coming to rest.
 * Any number rolled on a single Die *cannot* be split between more than one Pawn.
 * Each of the (2x) numbers rolled by the Dice on a turn can be used to advance the same Pawn in the same Turn twice, but strictly as one Move immediately following the other.
 
-#### Forfeiting a Roll
+#### Passing a Roll
 
-* Any number rolled on a single Die that can't be advanced for the exact amount, by any of Player's Pawns, must be Forfeited. (This is known as an "Involuntary Forfeit").
-* In addition: any number rolled on a single Die *can* be Forfeited at any time, for any reason. (This is known as an "Voluntary Forfeit").
-* A player *cannot* take (2x) consecutive Turns in which they Voluntarily Forfeit all of their Moves.
-* However, note that the "consecutive Forfeits" rule does *not* apply to a player taking Turns with any Involuntary Forfeits at all. (If the Player can't move at all, nothing can be done about it by the Player at the time of the Move.)
+* Any number rolled on a single Die that can't be advanced for the exact amount, by any of Player's Pawns, must be Passed. (This is known as an "Involuntary Pass").
+* In addition: any number rolled on a single Die *can* be Passed at any time, for any reason. (This is known as an "Voluntary Pass").
+* A player *cannot* take (2x) consecutive Turns in which they Voluntarily Pass all of their Moves.
+* However, note that the "consecutive Forfeits" rule does *not* apply to a player taking Turns with any Involuntary Passes at all. (If the Player can't move at all, nothing can be done about it by the Player at the time of the Move.)
 
 ### Doubles (Special Case) 
 
@@ -55,7 +55,7 @@ once before coming to rest.
 
 ### Overall Flow
 
-* All Pawns start in their Color-corresponding Jail.
+* All Pawns start in the Jail corresponding to their Color.
 * Each Pawn must "Break Out of Jail" by rolling exactly [6] on a single Die.
 * Each Break Out advances that Pawn to "Square 0" just outside their Jail. Only on the next Turn, can that Pawn advance any further. (This is true, even if there is still a single Die throw left to use as part of the current Turn).
 * Each Pawn must travel counterclockwise down the Hallway.
