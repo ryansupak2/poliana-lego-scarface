@@ -43,9 +43,6 @@ once before coming to rest.
 #### Snake Eyes Sniping (Special Case)
 
 * In the case of the Dice roll being [1][1], aka "Snake Eyes", Player may choose to use their entire Move to "Snipe" an enemy Pawn. (Please see the Section below "Catwalk/Combat/Sniping" for Full Details).
-* Any enemy Pawn that is currently on any Catwalk (*not* counting the "Square F" entry Space or the "Square 4" exit Space) can be Sniped, which returns them directly to their own Jail.
-* If Player wishes to Snipe, the entire Move must be used to do so. No Pawn advancement or Break Out can happen on that Move.
-* Even if Player elects to Snipe, the "bonus Move" for rolling Doubles still applies.
 
 ### Breaking out of Jail (Special Case)
 
