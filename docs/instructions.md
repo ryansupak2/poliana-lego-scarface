@@ -4,7 +4,7 @@
 
 ## Object of the Game
 
-The Object of the Game is to advance all (4x) Pawns in your Team Color (Red|Green|Blue|Yellow) from their starting place in their Jail, counter-clockwise around the Board, to their Home.
+The Object of the Game is to advance all (4x) Pawns in your Team Color (Red|Green|Blue|Yellow) from their starting place in their Jail, counter-clockwise around the Board, to their Exit.
 
 The first Player to do so is the Winner.
 
