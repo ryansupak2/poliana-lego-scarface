@@ -4,7 +4,7 @@
 
 ## Object of the Game
 
-The Object of the Game is to advance all (4x) Pawns in your Team Color (Red|Green|Blue|Yellow) from their starting place in their Color-specific Jail, counter-clockwise around the Board, to their Color-specific Home.
+The Object of the Game is to advance all (4x) Pawns in your Team Color (Red|Green|Blue|Yellow) from their starting place in their Jail, counter-clockwise around the Board, to their Home.
 
 The first Player to do so is the Winner.
 
@@ -12,8 +12,8 @@ The first Player to do so is the Winner.
 
 ### First Principles
 
-* The Game is designed for (4x) Players, but can be played with fewer.
-* If there are (2x) Players, they should sit on opposite sides of the Board from one another, playing as the corresponding Colors on their side of the Board.
+* The Game is designed ideally for (4x) Players, but can be played with fewer.
+* If there are only (2x) Players, they should sit on opposite sides of the Board from one another, playing as the corresponding Colors on their sides of the Board.
 * Play always starts with the oldest Player, and moves clockwise from there.
 
 ### Dice Principles
