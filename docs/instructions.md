@@ -95,9 +95,9 @@ once before coming to rest.
 * Pawns advance counterclockwise on the Hallway, starting at their Color-corresponding "Square 0", and ending at their "Square 9". Therefore: each Pawn travels almost 360 degrees around the Board over the course of the Game.
 * When a Pawn reaches its Color-corresponding "Square 9", it then advances to its Color-corresponding Stairway.
 
-#### Combat
+#### Hallway-Specific Combat
 
-* There are two modes of Combat possible in the game: Capturing (attack) and Stacking (defense). (Combat is only possible on the Hallway, and *not* any place else, including the Catwalk).
+* There are two modes of Combat possible in the Hallway: Capturing (attack) and Stacking (defense). (Combat is only possible on the Hallway and the Catwalk, but in different modes for each area).
 
 ##### Capturing
 
@@ -117,6 +117,10 @@ once before coming to rest.
 * Catwalks are entered via the corresponding "Square F", traveled along counterclockwise (same direction as Hallway), and exited via "Square 4".
 * There is no move penalty, nor any requirement to enter or exit the Catwalk.
 * It may be traveled on as freely as the Hallway except there is no Combat: Pawns cannot Stack, nor can they Capture, while on the Catwalk.
+
+### Catwalk-Specific Combat
+
+* There are two modes of Combat possible on the Catwalk: Sniping (attack) and Blocking (defense). (Combat is only possible in the Hallway or on the Catwalk, but in completely different Modes for each).
 
 #### Blocking
 
