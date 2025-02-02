@@ -75,7 +75,7 @@ once before coming to rest.
 * After the single Die roll of [6] is thrown, the Pawn is moved directly to the "Square 0" right outside their own Jail.
 * Pawn may *not* advance at all for the rest of the Move, even if the other Die throw hasn't been used yet.
 
-##### Special Capture/Stack Scenarios
+##### Special Capture and Stack Scenarios
 
 * If (1x) enemy Pawn is on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the enemy Pawn is Captured (see later section "Hallway/Combat/Capturing" for full details). 
 * If (1x) or more friendly Pawns are on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the same Color Pawn(s) are Stacked with, on "Square 0".
@@ -95,4 +95,27 @@ once before coming to rest.
 
 #### Combat
 
-* There are two modes of Combat possible in the game: Capturing and Stacking. (Combat is only possible on the Hallway, and noplace else including the Catwalk).
+* There are two modes of Combat possible in the game: Capturing (attack) and Stacking (defense). (Combat is only possible on the Hallway, and *not* any place else, including the Catwalk).
+
+##### Capturing
+
+* A Capture is made as a result of a single Die throw causing a Pawn to land directly on a Hallway Space, which is already occupied by exactly (1x) enemy Pawn.
+* See the earlier section "Jail/Breaking Out of Jail/Special Capture and Stacking Scenarios" for full details on that class of cases.
+
+##### Stacking
+
+* Stacking occurs when moee than (1x) friendly Pawn occupies the same Hallway Space. (It is *not* possible to Stack on a Catwalk Space).
+* Stacking protects all Pawns on that space from Capture.
+* A Pawn is *not* allowed to land on a Stacked Space at all. (If that is a Pawn's only option for a given Move, then that Move is counted as an Involuntary Forfeit).
+
+### Catwalk (Optional Path)
+
+* Any Catwalk can optionally be taken by any Pawn. (In other words, there is no restriction on any Catwalk by Pawn Color).
+* Catwalks are entered via the corresponding "Square F", traveled along counterclockwise (same direction as Hallway), and exited via "Square 4".
+* There is no move penalty, nor any requirement to enter or exit the Catwalk.
+* It may be traveled on as freely as the Hallway except there is no Combat: Pawns cannot Stack, nor can they Capture, while on the Catwalk.
+
+#### Blocking
+
+* On the Catwalk, no Pawn may pass any other Pawn (friendly or enemy). This is called "Blocking".
+* If a Player's only option on a Move is to travel on a Catwalk, but there is another Pawn (friendly or enemy) preventing them from advancing the full amount of the single Die roll, then that Move is counted as an Imvoluntary Forfeit.
