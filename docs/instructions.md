@@ -41,6 +41,7 @@ once before coming to rest.
 ### Breaking out of Jail (Special Case)
 
 * As mentioned in the prior section "Object of the Game", all Pawns start in their Color-specific Jail. The only way for a player to "Break out of Jail" is to roll exactly [6] on a single Die. (This will be discussed further in the Section "Theory of Play").
+
 ## Theory of Play
 
 ### Overall Flow
@@ -50,7 +51,9 @@ once before coming to rest.
 * Each Break Out advances that Pawn to "Square 0" just outside their Jail. Only on the next Turn, can that Pawn advance any further. (This is true, even if there is still a single Die throw left to use as part of the current Turn).
 * Each Pawn must travel counterclockwise down the Hallway.
 * Optionally, any Pawn may travel over any Catwalk (and not just the one on their side of the Board) as they advance.
-* At the "Square 9" corresponding to Team Color, each Pawn advamces to their Team's Stairway without having to stop for any reason (such has having to roll some precise number). 
+* For the duration of a Pawn's time on the Hallway or Catwalk, it can both Capture enemy Pawns by landing directly on them. This sends the Captured Pawn back to its own Jail.
+* For the duration of a Pawn's time on the Hallway (but *not* on the Catwalk). A Pawn can "Stack" with any number of Pawns of the same Color, on a single Space. This makes all stacked Pawns unable to be Captured.
+* At the "Square 9" corresponding to Team Color, each Pawn advamces to their Team's Stairway without having to stop for any reason (such as having to roll some precise number). 
 * To reach the Exit at the top of the Stairway, the exact Die amount to reach the Exit Space (and no more) must be rolled.
 * Once all (4x) of a Player's Pawns are in Exit, that Player wins the Game.
 
@@ -71,5 +74,6 @@ once before coming to rest.
 * After the single Die roll of [6] is thrown, the Pawn is moved directly to the "Square 0" right outside their own Jail.
 * Pawn may *not* advance at all for the rest of the Move, even if the other Die throw hasn't been used yet.
 
-##### Capture (Clarification)
+##### Capture Scenarios
 
+* If a Pawn is on "Square 0"
