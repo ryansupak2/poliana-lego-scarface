@@ -2,7 +2,7 @@
 
 *Current Version v0.5 - 1 Feb 2025*
 
-## Onject of the Game
+## Object of the Game
 
 The Object of the Game is to advance all (4x) Pawns in your Team Color (Red|Green|Blue|Yellow) from their starting place in their Color-specific Jail, counter-clockwise around the Board, to their Color-specific Home.
 
