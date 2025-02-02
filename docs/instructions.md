@@ -84,4 +84,4 @@ once before coming to rest.
 
 * If Player rolls "Double [6]", they can (for instance) Break Out (2x) Pawns.
 * However, it would *not* be possible to Break Out a single Pawn, and then move that single Pawn off of "Square 0" in the same Turn.
-* Since rolling Doubles grants a completely additional Turn to the Player, the Dice rolls from the second Turn to advance the Pawn.
+* Since rolling Doubles grants a completely additional Turn to the Player, the Dice rolls from the second Turn can of course be used to advance the Pawn.
