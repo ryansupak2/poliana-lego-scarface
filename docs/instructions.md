@@ -118,4 +118,4 @@ once before coming to rest.
 #### Blocking
 
 * On the Catwalk, no Pawn may pass any other Pawn (friendly or enemy). This is called "Blocking".
-* If a Player's only option on a Move is to travel on a Catwalk, but there is another Pawn (friendly or enemy) preventing them from advancing the full amount of the single Die roll, then that Move is counted as an Imvoluntary Forfeit.
+* If a Player's only option on a Move is to travel on a Catwalk, but there is another Pawn (friendly or enemy) preventing them from advancing the full amount of the single Die roll, then that Move is counted as an Imvoluntary Pass.
