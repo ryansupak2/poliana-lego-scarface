@@ -76,4 +76,5 @@ once before coming to rest.
 
 ##### Special Capture/Stack Scenarios
 
-* If a enemy Pawn is on "Square 0" and a player Breaks Out onto that "Square 0", the enemy pawn is Captured (see later section "Combat/Capturing" for full details). 
+* If a enemy Pawn is on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the enemy Pawn is Captured (see later section "Hallway/Combat/Capturing" for full details). 
+* If a aame-Color Pawn is on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the same Color Pawn is Stacked with (see later section "Hallway/Combat/Capturing" for full details). 
