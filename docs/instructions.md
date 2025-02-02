@@ -59,7 +59,7 @@ once before coming to rest.
 * Optionally, any Pawn may travel over any Catwalk (and not just the one on their side of the Board) as they advance.
 * For the duration of a Pawn's time on the Hallway or Catwalk, it can Capture enemy Pawns by landing directly on them. This sends the Captured Pawn back to its own Jail.
 * For the duration of a Pawn's time on the Hallway (but *not* on the Catwalk). A Pawn can "Stack" with any number of Pawns of the same Color, on a single Space. This makes all of the Stacked Pawns unable to be Captured, for as lomg as they are Stacked.
-* At the "Square 9" corresponding to Team Color, each Pawn advamces to their Team's Stairway without having to stop for any reason (such as having to roll some precise number). 
+* At the "Square 9" corresponding to Team Color, each Pawn advances to their Team's Stairway without having to stop for any reason (such as having to roll some precise number). 
 * To reach the Exit at the top of the Stairway, the exact Die amount to reach the Exit Space (and no more) must be rolled.
 * Once all (4x) of a Player's Pawns are in Exit, that Player wins the Game.
 
@@ -111,7 +111,7 @@ once before coming to rest.
 
 ##### Stacking
 
-* Stacking occurs when moee than (1x) friendly Pawn occupies the same Hallway Space. (It is *not* possible to Stack on a Catwalk Space).
+* Stacking occurs when more than (1x) friendly Pawn occupies the same Hallway Space. (It is *not* possible to Stack on a Catwalk Space).
 * Stacking protects all Pawns on that space from Capture.
 * A Pawn is *not* allowed to land on a Stacked Space at all. (If that is a Pawn's only option for a given Move, then that Move is counted as an Involuntary Forfeit).
 
