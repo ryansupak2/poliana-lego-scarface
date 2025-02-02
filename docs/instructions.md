@@ -126,3 +126,11 @@ once before coming to rest.
 * When a Pawn reaches its Color-corresponding "Square 9", it may proceed to its Stairway.
 * There is no moving penalty or halt, nor is there any precise Die roll needed, to enter the Hallway.
 * Only Pawns of the same Color as a Stairway may enter it. (There is *never* a scenario where a Pawn will be on a Stairway that is not its own Color).
+* Pawns may Stack on Stairway Squares, but since no enemy Pawns ever reach that specific Stairway, Combat will never occur on that or any other Stairway.
+
+### Exit
+
+* Beyond the final Space of the Stairway, which is "Square 7", lies the Exit.
+* Once all a Player's Pawns are in the Exit, the Game is over with that Player Winning.
+* Once a Pawn is in the Exit, there is no way to reverse that for the rest of the Game.
+* A Pawn must make an exact single Die roll to get to the Exit. (The single Die roll must not "overshoot" the Exit.
