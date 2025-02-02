@@ -66,6 +66,5 @@ once before coming to rest.
 #### Breaking Out of Jail
 
 * On any single Die roll of exactly [6], a single Pawn may Break Out of Jail.
-* However, Player is *not* required to Break Out a Pawn
-This means that the Pawn can move to Sq
+* However, Player is *not* required to Break Out a Pawn, just because a [6] is rolled on a single Die, and there is at least (1x) Pawn in Player's Jail.
 
