@@ -76,8 +76,9 @@ once before coming to rest.
 
 ##### Special Capture/Stack Scenarios
 
-* If a enemy Pawn is on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the enemy Pawn is Captured (see later section "Hallway/Combat/Capturing" for full details). 
-* If a aame-Color Pawn is on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the same Color Pawn is Stacked with (see later section "Hallway/Combat/Capturing" for full details). 
+* If (1x) enemy Pawn is on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the enemy Pawn is Captured (see later section "Hallway/Combat/Capturing" for full details). 
+* If (1x) or more friendly Pawns are on Player's "Square 0", and Player Breaks Out a Pawn onto that "Square 0", the same Color Pawn(s) are Stacked with, on "Square 0".
+* If (2x) or enemy Pawns are on Player's "Square 0", then Player cannot Break Out. (Also, if Breaking Out is Player's only option to make a Move at that time, then the Move is counted as an Involuntary Forfeit.)
 
 ##### Special "Double [6]" Scenario
 
