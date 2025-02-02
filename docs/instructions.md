@@ -78,7 +78,7 @@ once before coming to rest.
 #### Breaking Out of Jail
 
 * On any single Die roll of exactly [6], a single Pawn may Break Out of Jail.
-* The sum of both Dice cannot be used to perfoem a Break Out. The [6] must be on a single Die.
+* The sum of both Dice cannot be used to perform a Break Out. The [6] must be on a single Die.
 * However, Player is *not* required to Break Out a Pawn, just because a [6] is rolled on a single Die, and there is at least (1x) Pawn in Player's Jail.
 * The act of *not* Breaking Out, when there is the possibility to but Player choosea not tp, counts as a Voluntary Forfeit of a Move.
 * After the single Die roll of [6] is thrown, the Pawn is moved directly to the "Square 0" right outside their own Jail.
