@@ -40,6 +40,13 @@ once before coming to rest.
 * In the case of rolling Doubles, it is just as if the Player gets an entire extra Turn, immediately after their current Turn is done. (All other rules governing Dice still apply).
 * Multiple Double Rolls can be made by a single Player. There is no limit to the amount of extra Turns can be received this way.
 
+#### Snake Eyes Sniping (Special Case)
+
+* In the case of the Dice roll being [1][1], aka "Snake Eyes", Player may choose to use their entire Move to "Snipe" an enemy Pawn.
+* Any enemy Pawn that is currently on any Catwalk (*not* counting the "Square F" entry Space or the "Square 4" exit Space) can be Sniped, which returns them directly to their own Jail.
+* If Player wishes to Snipe, the entire Move must be used to do so. No Pawn advancement or Break Out can happen on that Move.
+* Even if Player elects to Snipe, the "bonus Move" for rolling Doubles still applies.
+
 ### Breaking out of Jail (Special Case)
 
 * As mentioned in the prior section "Object of the Game", all Pawns start in their Color-specific Jail. The only way for a player to "Break out of Jail" is to roll exactly [6] on a single Die. (This will be discussed further in the Section "Theory of Play").
